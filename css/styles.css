@@ -28,7 +28,7 @@ h1, h2, h3, .logo {
     color: #F4F1EA;
 }
 
-.site-header {
+.site-header a {
     color: #F4F1EA;
     text-decoration: none;
 }
